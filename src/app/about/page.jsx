@@ -35,7 +35,7 @@ export default function About() {
       <main className="w-full flex flex-col justify-center p-4">
         <section className="w-full max-w-4xl mx-auto flex flex-col md:flex-row">
           <div className="md:w-1/2 p-4">
-            <h1 className="text-4xl font-bold mb-4">I'm Michael. I live in Bountiful, where I help develop the future.</h1>
+            <h1 className="text-4xl font-bold mb-4">I am Michael. I live in Bountiful, where I help develop the future.</h1>
             <p className="mb-4">I was born and raised in Bountiful Utah. I am an energetic, quick witted and fast talking induvial who loves to spend time with his friends and family. I have many hobbies and passions which I love to invest my time in.</p>
             <p className="mb-4">Since a young age I have always had a fancy for computer work and writing. These endeavors have followed me into my adult years as I strive to better myself each day in the technological field. These wonderful opportunities have helped me grow proficient in technology and give me experience in such fields. </p>
             <p className="mb-4">Using my writing skills, I can communicate effectively with employers and users. I always maintain a professional atmosphere in my work and writing. You can rest assured that when I use technology and write that I do so using the utmost discretion and descriptors. </p>

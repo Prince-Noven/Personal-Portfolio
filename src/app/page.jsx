@@ -111,7 +111,7 @@ export default function Home() {
     <h2 className="text-2xl font-semibold">Work</h2>
   </div>
   <ul className="mt-4 space-y-4">
-    <p>Here are some of the companies I've worked for:</p>
+    <p>Here are some of the companies I have worked for:</p>
     <li className="flex items-start">
       <Image
         src="/images/ldschurch.png" // Path to your LDS Church icon
@@ -135,7 +135,7 @@ export default function Home() {
         className="mr-2"
       />
       <div>
-        <strong>Smith's Food and Drug Garden Center</strong>
+        <strong>Smiths Food and Drug Garden Center</strong>
         <br />
         Employee 2023 - 2023
       </div>
